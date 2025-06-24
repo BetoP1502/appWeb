@@ -19,7 +19,7 @@ const Texto = styled.li`
 const LinkMenu = styled(Link)`
   text-decoration: none;
   color: #333;
-  font-size: 1em;
+  font-size: 1.25em;
   cursor: pointer;
 
   &:hover {

@@ -2,7 +2,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header';
 import Sugestoes from './pages/Sugestoes'; 
-import ConteudoHome from './components/ConteudoHome';
+import ConteudoHome from './pages/Home';
 
 
 function App() {

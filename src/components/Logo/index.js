@@ -9,13 +9,13 @@ const LogoContainer = styled.div`
   justify-content: center;
 
   img {
-    width: 25%;
+    width: 33%;
     height: auto;
     margin-right: 0.5rem;
   }
 `;
 const LogoText = styled.p`
-  font-size: 0.75rem;
+  font-size: 1em;
   color: #de1d1d;
 `;
 
