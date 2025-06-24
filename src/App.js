@@ -12,7 +12,7 @@ function App() {
       <Header />
       
       {/* Conteúdo das páginas */}
-      <div className="container mt-4">
+      <div>
         <Routes>
           <Route path="/" element={<ConteudoHome />} />          
           <Route path="/Sugestoes" element={<Sugestoes />} />
